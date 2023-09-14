@@ -7,3 +7,4 @@ joblib
 dune-client
 python-dotenv
 ipykernel
+sanpy
